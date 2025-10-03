@@ -1,0 +1,6 @@
+# Requirements for CSCN8020 Assignment 1 notebooks
+# Problems 2–4 use only the Python standard library.
+# Jupyter is included so you can run the .ipynb notebook.
+
+notebook>=7.0
+ipykernel>=6.29
